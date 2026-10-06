@@ -12,3 +12,4 @@ wheels/
 # ETC
 .python-version
 object_tracking/runs/
+data/
