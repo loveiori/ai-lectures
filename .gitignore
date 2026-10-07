@@ -13,3 +13,5 @@ wheels/
 .python-version
 object_tracking/runs/
 data/
+mnist_runs/
+mnist_data/
