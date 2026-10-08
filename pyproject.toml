@@ -5,8 +5,12 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
+    "langchain>=1.4.3",
+    "langchain-openai>=1.7.0",
+    "langgraph>=1.2.14",
     "matplotlib>=3.11.2",
     "opencv-python>=5.0.0.93",
+    "pydantic>=2.13.5",
     "rfdetr>=1.11.1",
     "supervision>=0.30.6",
     "torch>=2.14.0",
